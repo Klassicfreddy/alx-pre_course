@@ -1,1 +1,2 @@
-my first readme
+my readme
+alx-pre_course is cool.
